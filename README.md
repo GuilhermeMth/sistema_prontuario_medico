@@ -116,25 +116,6 @@ java -jar sistema.jar
 
 ---
 
-## 🗂 Organização das Pastas
-
-```
-📦 src/
- ┣ 📂 br/com/projeto/
- ┃ ┣ 📂 controller/
- ┃ ┣ 📂 dao/
- ┃ ┣ 📂 model/
- ┃ ┣ 📂 view/
- ┃ ┗ Main.java
-📦 lib/
- ┗ mysql-connector-java-8.0.xx.jar
-📄 config.txt
-📄 README.md
-📄 MANIFEST.MF
-```
-
----
-
 ## ✅ Casos de Uso Atendidos
 
 * Cadastrar, editar, listar e remover pacientes e exames.
